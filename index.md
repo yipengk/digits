@@ -32,7 +32,7 @@ When you first bring up the application, you will see the landing page that prov
 
 ![1.png](doc/1.png)
 
-**Register**
+**Register**<br>
 If you do not yet have an account on the system, you can register by clicking on “Login”, then “Sign Up”:<br>
 ![2.png](doc/2.png)
 
@@ -45,17 +45,17 @@ Click on the Login link, then click on the Signin link to bring up the Sign In p
 After successfully logging in, the system takes you to your home page. It is just like the landing page, but the NavBar contains links to list contact and add new contacts:<br>
 ![5.png](doc/5.png)
 
-**List Contacts**
+**List Contacts**<br>
 Clicking on the List Contacts link brings up a page that lists all of the contacts associated with the logged in user:<br>
 ![6.png](doc/6.png)
 
 This page also allows the user to add timestamped “notes” detailing interactions they’ve had with the Contact. For example:<br>
 ![7.png](doc/7.png)
 
-**Edit Contacts**
+**Edit Contacts**<br>
 From the List Contacts page, the user can click the “Edit” link associated with any Contact to bring up a page that allows that Contact information to be edited:<br>
 ![8.png](doc/8.png)
 
-**Admin mode**
+**Admin mode**<br>
 It is possible to designate one or more users as “Admins” through the settings file. When a user has the Admin role, they get access to a special NavBar link that retrieves a page listing all Contacts associated with all users:<br>
 ![9.png](doc/9.png)
